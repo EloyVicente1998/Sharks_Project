@@ -49,7 +49,7 @@ Representación gráfica:
 * Folium
 
 4\. Estructura de la carpeta 📂
-
+```bash
 └── Sharks_Project
     ├── notebook
     │   └── SharkSpots.ipynb
@@ -58,3 +58,4 @@ Representación gráfica:
     │   ├── mapa.html
     │   └── population1.csv
     └──README.md
+```
